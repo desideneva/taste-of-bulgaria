@@ -137,7 +137,7 @@ margin-top: 79px;
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
-        border-bottom: 1px solid #f5f5f5;
+        border-bottom: 2px solid #f5f5f5;
     }
 }
     
