@@ -25,8 +25,12 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 4px 4px #ffb668;
-     
-}
+    }
+
+    header a {
+        text-decoration: none;
+        color: inherit;
+    }
 
 h1 {
     font-family: 'Lato', sans-serif;
@@ -36,7 +40,22 @@ h1 {
 #logo {
     font-family: 'Young Serif', sans-serif;
     color: #f5f5f5;
+    letter-spacing: 2px;
 
+}
+
+#menu {
+    font-size: 75%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 0.5em;
+}
+     
+.active {
+    border-bottom: 2px solid #f5f5f5;
 }
 /* Main content */
 main {
