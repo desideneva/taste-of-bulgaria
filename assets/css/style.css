@@ -1,3 +1,7 @@
+/* Google fonts and some additional font import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Young+Serif&display=swap');
+@import url(https://db.onlinewebfonts.com/c/2e4a02a7b0ff117a82ececd3fcada0c4?family=Balkara+Free+Condensed+-+npoekmu.me+Regular);
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -11,11 +15,12 @@ body {
     display: flex;
     flex-direction: column;
     color: antiquewhite;
+    font-family: 'Lato', sans-serif;
 }
 
 /* Header */
 header {
-    background-color: antiquewhite;
+    background-color: #CC5500;
 }
 /* Main content */
 main {
