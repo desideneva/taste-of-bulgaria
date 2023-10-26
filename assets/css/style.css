@@ -225,6 +225,15 @@ footer {
 
  }
 
+ /* Media query: large or landscape phones (576px and up) */ 
+ @media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+    
+ }
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 /* Header */
@@ -253,6 +262,11 @@ nav {
     margin: 0 0.5rem;
 }
 
+/* Gallery */
+#photos {
+    column-count: 3;
+}
+
 /* Main content */
 main {
 /* Push main content down to accommodate larger header */
@@ -264,6 +278,10 @@ margin-top: 79px;
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 2px solid #f5f5f5;
+    }
+    /* Gallery */
+    #photos {
+        column-count: 4;
     }
 }
     
