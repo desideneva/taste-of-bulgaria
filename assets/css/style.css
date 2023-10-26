@@ -147,7 +147,11 @@ footer {
  #social-networks {
     font-size: 160%;
     padding: 5%;
+}
+
+ #social-networks li a {
     color: #CC5500;
+
  }
 
 /* Media query: tablets and larger (768px and up) */
