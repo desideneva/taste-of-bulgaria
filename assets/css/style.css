@@ -102,6 +102,35 @@ main {
             background: url("../images/trapeza.webp") no-repeat center center/cover
         }
 
+/* Reasons section*/
+ #reasons {
+     width: 90%;
+     margin: 20px auto;
+ }
+
+ #reasons h2 {
+     margin-bottom: 20px;
+     text-align: center;
+     font-size: 280%;
+     color: #CC5500;
+ }
+
+ #new-restaurant>div {
+     line-height: 20px;
+     margin-bottom: 20px;
+     color: #CC5500;
+ }
+
+ #restaurant p {
+     padding: 0 20px;
+     color: #CC5500
+ }
+  
+ hr {
+     border-top: 1px solid #CC5500;
+     margin: 5px 0;
+ }
+
 /* Footer */
  #social-networks {
     text-align: center;
