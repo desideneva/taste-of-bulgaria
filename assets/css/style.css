@@ -38,6 +38,7 @@ header {
 h1 {
     font-family: 'Lato', sans-serif;
     color: #f5f5f5;
+    text-align: center;
     
 }
 #logo {
@@ -93,6 +94,13 @@ main {
     flex: 1 0 auto;
     margin-top: 47px;
 }
+
+/* Hero section */
+        #hero {
+            height: 300px;
+            width: 100%;
+            background: url("../images/trapeza.webp") no-repeat center center/cover
+        }
 
 /* Footer */
  #social-networks {
