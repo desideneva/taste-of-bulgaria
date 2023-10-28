@@ -242,7 +242,7 @@ footer {
 #traditional-images {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 #traditional-images img {
@@ -255,7 +255,7 @@ footer {
 /* Media query for screens with a maximum width of 576px (typical for tablets and mobiles) */
 @media screen and (max-width: 576px) {
     #traditional-images {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
 
@@ -367,6 +367,12 @@ nav {
     column-count: 3;
 }
 
+/* Traditional images section */
+#image-container {
+    column-count: 3;
+    column-gap: 0;
+}
+
 /* Main content */
 main {
 /* Push main content down to accommodate larger header */
@@ -409,5 +415,11 @@ margin-top: 79px;
     #photos {
         column-count: 4;
     }
+     
+    /* Traditional images section */
+    #image-container {
+        column-count: 3;
+        column-gap: 0;
+}
 }
    
