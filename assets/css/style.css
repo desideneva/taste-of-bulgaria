@@ -401,6 +401,18 @@ margin-top: 79px;
     background-color: #fafafa;
     color: #454b1b;
 }
+ /* Welcome section */
+ #welcome-image {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+ }
+
+ #welcome-image>div {
+    width: 75%;
+    text-align: end;
+    align-self: flex-end;
+ }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -418,5 +430,26 @@ margin-top: 79px;
         column-count: 3;
         column-gap: 0;
 }
+}
+
+@media screen and (min-width: 1200px) {
+    /* Welcome section */
+    #welcome {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #welcome>div {
+        flex: 1;
+    }
+
+    #welcome-image {
+        order: 0;
+    }
+
+    #location>div {
+        align-self: flex-start;
+    }
+    
 }
    
