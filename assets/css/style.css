@@ -54,6 +54,7 @@ h1 {
     font-size: 75%;
     letter-spacing: 2px;
     list-style-type: none;
+    text-transform: capitalize;
 }
 
 #menu>li {
@@ -295,13 +296,13 @@ form {
 }
 
 #joinus {
-    background: url("../images/vegetables-set-left-black-slate.jpg") center center/cover no-repeat;
+    background-image: url("../images/vegetables-set-left-black-slate.jpg");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 20px 10%;
     display: flex;
     background-color: black;
-}
+} 
 
 p {
     text-align: center;
