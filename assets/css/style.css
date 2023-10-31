@@ -295,7 +295,7 @@ form {
 }
 
 #joinus {
-    background-image: url("../images/vegetables-set-left-black-slate.jpg");
+    background: url("../images/vegetables-set-left-black-slate.jpg") center center/cover no-repeat;
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 20px 10%;
