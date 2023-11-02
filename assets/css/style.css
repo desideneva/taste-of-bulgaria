@@ -178,14 +178,14 @@ p {
 
 
 h2 {
-    font: "Lato", sans-serif;
+    font: 'Lato', sans-serif;
     color: #CC5500;
     text-align: center;
     font-weight: bold;
 }
 
 h3 {
-    font: "Lato", sans-serif;
+    font: 'Lato', sans-serif;
     color: #CC5500;
     text-align: center;
     font-weight: 900;
@@ -249,12 +249,11 @@ p {
 /* Gallery page*/
 #photos img {
     width: 100%;
-    line-height: 1em;
-
-}
-
-#photos {
-    line-height: 0;
+    height: 250px;
+    object-fit: cover;
+    padding: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 
