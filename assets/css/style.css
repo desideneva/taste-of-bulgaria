@@ -303,18 +303,19 @@ footer {
 }
 
 /* Form */
+#join { 
+    background-image: url("../images/vegetables-set-left-black-slate-min.jpg");
+    background-size: cover;
+    background-position: 65%;
+}
+
 form {
     background-color: #0000005e;
 }
 
-
 #joinus {
-    background-image: url("../images/vegetables-set-left-black-slate-min.jpg");
-    background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 20px 10%;
+    padding: 50px 10% 20px 10%;
     display: flex;
-    background-color: black;
 } 
 
 p {
@@ -322,12 +323,14 @@ p {
     margin: 20px 0;
     font-family: "Lato", sans-serif;
     color: #ffffff;
+    font-size: 1em;
 }
 
 h2 {
     color: #ffffff;
     text-align: center;
     font-weight: bold;
+    font-size: 2em;
 }
 
 #joinus-form {
@@ -408,10 +411,13 @@ h2 {
     }
 
     /* Form */
+
     #joinus {
         background-position: center;
         position: relative;
-    }
+        padding: 100px 10% 20px 10%;
+        display: flex;
+    } 
 
     #joinus-form {
         max-width: 400px;
