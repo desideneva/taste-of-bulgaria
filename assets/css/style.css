@@ -140,12 +140,14 @@ main {
     margin-bottom: 20px;
     color: #333;
     font-weight: bolder;
+    font-size: x-large;
 }
 
 
 #restaurant p {
     padding: 0 20px;
     color: #A52A2A;
+    font-size: larger;
 }
 
 p {
