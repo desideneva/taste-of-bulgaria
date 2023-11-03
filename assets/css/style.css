@@ -113,10 +113,10 @@ main {
 }
 
 #cover-text {
-    font-size: 200%;
+    font-size: 5vw;
     color: #f5f5f5;
     position: absolute;
-    margin: 5% 5%;
+    margin: 50px;
     font-weight: 900;
     background-color: black;
 
@@ -402,6 +402,10 @@ h2 {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
+    
+    #cover-text {
+        margin: 85px;
+    }
 
     /* Form */
     #joinus {
@@ -451,6 +455,10 @@ h2 {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 2px solid #f5f5f5;
+    }
+
+    #cover-text {
+        margin: 25px;
     }
 
     /* Gallery */
