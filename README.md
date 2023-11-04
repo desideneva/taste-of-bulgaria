@@ -264,6 +264,13 @@ The W3C Markup and CSS Validators were used to validate my project to make sure 
 * I ensured the site had all the relevant meta tags needed.
 * All font sizes are legible on all screen sizes.
 
+## Credits
+
+### _Content_
+
+The content for this project includes valuable information from respected sources to provide an accurate and detailed description of Bulgarian cuisine. Some of the content has been sourced from "https://en.wikipedia.org/wiki/Bulgarian_cuisine", and the delightful menu featured on this website has been kindly provided by "https://my.mpskin.com/en/tour/7zm9cb427," enhancing the user experience with an attractive selection of authentic Bulgarian dishes.
+
+
 
 
 
