@@ -107,10 +107,6 @@ These experiences highlight the importance of thorough testing and attention to 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
  
-### _Wireframes_
-
-![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
-
 ### _Site Deployment_
 
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
@@ -137,19 +133,6 @@ If you need to make a copy of a repository:
 1. Login or Sign Up to [GitHub](www.github.com).
 2. On GitHub, go to [desideneva/taste-of-bulgaria](desideneva/taste-of-bulgaria).
 3. In the top right corner, click "Fork".
-
-### _How to Clone a Repository_
-
-If you need to make a clone:
-
-1. Login to [GitHub](www.github.com).
-2. Fork the repository "desideneva/taste-of-bulgaria" the steps above in [How To Fork a Repository](#how-to-fork-a-repository).
-3. Above the file list, click "Code".
-4. Choose if you want to close using HTTPS, SSH or GitHub CLI, then click the copy button to the right.
-5. Open Git Bash.
-6. Change the directory to where you want your clone to go.
-7. Type git clone and then paste the URL you copied in step 4.
-8. Press Enter to create your clone.
 
 ### _How to Make a Local Clone_
 
