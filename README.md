@@ -22,6 +22,13 @@
 
 ![Landing Page](assets/images/food-hero.webp)
 
+### _Announcement section_
+
+- This section was designed to keep users informed about the grand opening of a new Bulgarian restaurant.
+
+![Announcement section](assets/docs/announcement.PNG)
+
+
 
 
  
