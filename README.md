@@ -153,6 +153,27 @@ The W3C Markup and CSS Validators were used to validate my project to make sure 
 
 ![Join Us page results](assets/docs/mob-joinus-perf.PNG)
 
+#### Performance
+
+- I was very happy with my initial lighthouse scores.
+- The issues reducing my performance scores are that I have a large size images, including background images.
+- My mobile scores are lower due to the scaling down of images and text for use on mobile.
+
+#### Accessibility
+
+- While writing my code, I was careful to ensure that it was fully accessible.
+- All text has good visibility on the background I chose.
+
+#### Best Practices
+
+- All images are shown in the correct aspect ratio, so as not to look stretched or pixelated.
+
+#### SEO
+
+* I ensured the site had all the relevant meta tags needed.
+* All font sizes are legible on all screen sizes.
+
+
 
 
 
