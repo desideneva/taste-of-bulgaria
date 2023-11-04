@@ -28,6 +28,11 @@
 
 ![Announcement section](assets/docs/announcement.PNG)
 
+### _Menu Section_ 
+
+- A specially designed menu for the opening day,  bursting with authentic flavor, takes the user through Bulgaria's regions, from the Rhodope Mountains to the Black Sea coast.
+
+![Menu section](assets/docs/menu.PNG)
 
 
 
