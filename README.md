@@ -16,5 +16,15 @@
 
 ![Nav Bar](assets/docs/header.PNG)
 
+### _The landing page image_
+
+- The landing includes a photograph that grab user`s attention on a few of the most well known traditional Bulgarian dishes in a typical traditional environment.
+
+![Landing Page](assets/images/food-hero.webp)
+
+
+
+ 
+
 
  
