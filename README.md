@@ -74,6 +74,19 @@
  
 These forthcoming features will make the website more interactive, captivating, and appealing to a broader audience, ultimately enhancing the user experience and encouraging participation in the restaurant's events and culinary delights.
 
+## Solved Bugs
+
+- Navbar Toggle: The toggle for the navbar appeared under the heading instead of next to it due to a spelling mistake in the CSS. "position: absolute" was applied incorrectly, missing the "e" at the end.
+
+- Spelling Mistake: Another spelling mistake had a significant impact on the navbar. "a: hoover;" was used instead of "a: hover;" in the CSS, causing unintended behavior.
+
+- Image Size Issue: Three images for the main page were of different sizes, and efforts to compress and resize them were ineffective. As a solution, the idea was changed, and a "Welcome" section was created instead, which resolved the issue.
+
+- Media Query Issue: When applying the "Form" section under a media query, it unintentionally prevented the background image from appearing on the "Join Us" page, leading to an unexpected display problem.
+
+- Bracket Closing Mistake: Forgetting to close a bracket resulted in various unintended consequences, such as the text not appearing on the screen, the color changing unexpectedly, the text font altering, or text alignment issues. Identifying and resolving these bracket-related bugs was time-consuming.
+
+These experiences highlight the importance of thorough testing and attention to detail during project development.
 ## Testing
 
 Every aspect of the project was tested on the browsers below.
