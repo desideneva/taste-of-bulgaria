@@ -268,7 +268,32 @@ The W3C Markup and CSS Validators were used to validate my project to make sure 
 
 ### _Content_
 
-The content for this project includes valuable information from respected sources to provide an accurate and detailed description of Bulgarian cuisine. Some of the content has been sourced from "https://en.wikipedia.org/wiki/Bulgarian_cuisine", and the delightful menu featured on this website has been kindly provided by "https://my.mpskin.com/en/tour/7zm9cb427," enhancing the user experience with an attractive selection of authentic Bulgarian dishes.
+The main guidance and instructions in this project were from [Code Institute](https://codeinstitute.net), specifically from [Love Running project](https://learn.codeinstitute.net/ci_program/diplomainfullstacksoftwarecommoncurriculum)
+
+- The introductory content includes valuable information from respected sources to provide an accurate and detailed description of Bulgarian cuisine. Some of the content has been sourced from [Bulgarian Cuisine](https://en.wikipedia.org/wiki/Bulgarian_cuisine)
+
+- The delightful menu featured on this website has been kindly provided by [Manastirska Magernitsa Menu](https://my.mpskin.com/en/tour/7zm9cb427) enhancing the user experience with an attractive selection of authentic Bulgarian dishes.
+
+- Instructions on how to implement form validation on the Sign Up page was taken from [Love Running Sign Up page](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/fc8bba87c52a4d91b32d1c7c28b1d79b/)
+
+- The icons in the footer were taken from [Font Awsome](https://fontawesome.com)
+
+- The Favicon was taken from [Favicon](https://icons8.com/icons/set/favicon
+)
+
+- The fonts used in the project were imported from [Google Fonts](https://fonts.google.com/
+)
+
+### _Media_
+
+- The Landing page image and the Join Us page background image were taken from [FREEP!K](https://www.freepik.com/search?format=search&page=5&query=traditional+restaurant+background
+)
+
+- The Welcoming image was taken from [Folklore People](https://www.istockphoto.com/photo/folklore-beautiful-young-people-in-folk-costumes-gm927386158-254410839
+)
+
+- The Gallery images were taken from [Tripadvisor](https://www.tripadvisor.co.uk/Restaurant_Review-g1088372-d4699146-Reviews-Chevermeto-Sveti_Vlas_Burgas_Province.html#photos;aggregationId=101&albumid=101&filter=7&ff=101577952)
+
 
 
 
