@@ -64,6 +64,15 @@
 
 ![Join Us page](assets/docs/join-us.PNG)
 
+### _Features Left to Implement_
+
+- Main Page Slideshow: Enhance the main page by adding an engaging image slideshow. This dynamic element will provide an eye-catching visual experience for the users.
+
+- Gallery Page Videos: Enrich the Gallery page by incorporating short videos from various events, such as folklore evenings, engagement parties, and kids' parties. These videos will give users an immersive glimpse into the vibrant atmosphere and experiences offered at the restaurant.
+
+- Discount Popup on Join Us: Upon signing up on the "Join Us" page, implement a feature where a welcoming message with a 10% discount offer for the first booking pops up. This tempting promotion will encourage users to take immediate action, making it even more motivating to join an event at the restaurant or savor its delicious meals with family and friends.
+ 
+These forthcoming features will make the website more interactive, captivating, and appealing to a broader audience, ultimately enhancing the user experience and encouraging participation in the restaurant's events and culinary delights.
 
 
 
