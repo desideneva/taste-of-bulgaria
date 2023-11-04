@@ -50,6 +50,15 @@
 
 ![Footer](assets/docs/footer.PNG)
 
+### _Gallery_
+
+- The gallery will provide the user with supporting images to see what the restaurant and some of the meals look like.
+
+- The gallery provides users with a visually appealing experience and adds significant value by offering a visual, culinary, and cultural experience to users. 
+
+![Gallery page](assets/docs/gallery.PNG)
+
+
 
 
 
