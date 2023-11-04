@@ -16,13 +16,13 @@
 
 ![Nav Bar](assets/docs/header.PNG)
 
-### _The landing page image_
+### _The Landing Page Image_
 
 - The landing includes a photograph that grab user`s attention on a few of the most well known traditional Bulgarian dishes in a typical traditional environment.
 
 ![Landing Page](assets/images/food-hero.webp)
 
-### _Announcement section_
+### _Announcement Section_
 
 - This section was designed to keep users informed about the grand opening of a new Bulgarian restaurant.
 
@@ -87,6 +87,84 @@ These forthcoming features will make the website more interactive, captivating, 
 - Bracket Closing Mistake: Forgetting to close a bracket resulted in various unintended consequences, such as the text not appearing on the screen, the color changing unexpectedly, the text font altering, or text alignment issues. Identifying and resolving these bracket-related bugs was time-consuming.
 
 These experiences highlight the importance of thorough testing and attention to detail during project development.
+
+## Technologies Used
+
+### _Languages_
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### _Version Control_
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
+![Codeanywhere](https://img.shields.io/badge/codeanywhere-6611f0.svg?style=for-the-badge&logo=codeanywhere&logoColor=white)
+
+### _Browsers_
+
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+ 
+### _Wireframes_
+
+![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+
+### _Site Deployment_
+
+![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+## Deployment
+
+### _Initial Deployment_
+
+This site was deployed using GitHub Pages with the following steps below:
+
+1. Login or Sign Up to [GitHub](www.github.com).
+2. Create a new repository named "Taste-of-Bulgaria".
+3. Once created, click on "Settings" on the navigation bar under the repository title.
+4. Click on "Pages", on the left-hand side below Secrets.
+5. Under "Source", choose which branch you wish to deploy, In most cases, it will be "main".
+6. Choose which folder to deploy from, generally from "/root".
+7. Click "Save", then wait for it to be deployed. It may take some time for the page to be fully deployed.
+8. The URL will be displayed above the "source" section in GitHub Pages.
+
+### HOW TO FORK A REPOSITORY
+
+If you need to make a copy of a repository:
+
+1. Login or Sign Up to [GitHub](www.github.com).
+2. On GitHub, go to [manni8436/Legend-of-the-Greek-Gods](https://github.com/desideneva/taste-of-bulgaria).
+3. In the top right corner, click "Fork".
+
+### HOW TO CLONE A REPOSITORY
+
+If you need to make a clone:
+
+1. Login to [GitHub](www.github.com).
+2. Fork the repository manni8436/Legend-of-the-Greek-Gods using the steps above in [How To Fork a Repository](#how-to-fork-a-repository).
+3. Above the file list, click "Code".
+4. Choose if you want to close using HTTPS, SSH or GitHub CLI, then click the copy button to the right.
+5. Open Git Bash.
+6. Change the directory to where you want your clone to go.
+7. Type git clone and then paste the URL you copied in step 4.
+8. Press Enter to create your clone.
+
+### HOW TO MAKE A LOCAL CLONE
+
+If you need to make a local clone:
+
+1. Login to [GitHub](www.github.com).
+2. Under the repository name, above the list of files, click "Code".
+3. Here you can either Clone or Download the repository.
+4. You should close the repository using HTTPS, clicking on the icon to copy the link.
+5. Open Git Bash.
+6. Change the current working directory to the new location, where you want the cloned directory to be.
+7. Type git clone and then paste the URL you copied in step 4.
+8. Press Enter, and your local clone will be created.
+
+
 ## Testing
 
 Every aspect of the project was tested on the browsers below.
