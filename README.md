@@ -74,6 +74,94 @@
  
 These forthcoming features will make the website more interactive, captivating, and appealing to a broader audience, ultimately enhancing the user experience and encouraging participation in the restaurant's events and culinary delights.
 
+## Testing
+
+Every aspect of the project was tested on the browsers below.
+
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+
+### _User Testing_
+
+- The navigation menu needs to be simple to use on a range of devices, including desktop, tablet and mobile.
+
+  - The navigation bar is visible on all pages with an indicator to show which page the user is on.
+  - The navigation bar is easy to read and easy to understand what each button does.
+
+- Maneuvering around the site should be simple and straightforward  
+
+  - Everything is laid out in a clear manner that is simple to use.
+  - The navigation bar is clear and visible at the top of each page.
+
+- The images should be clear and not stretched or squashed
+
+  - All images are visibly clear on all pages.
+
+### _Styling and Layout_
+
+| Expected    | Result |
+| :---------: | :----: |
+| Ensure images loads correctly and functioning as expected | Pass |
+| Ensure all images loads correctly | Pass |
+| Ensure all backgrounds images load correctly | Pass |
+| Ensure main page header loads correctly | Pass |
+
+### _Responsiveness_
+
+| Page | Images and Content Responsive | Text Content Readable    |
+| :--: |:----------------------------: | :----------------------: |
+| Home Page | Pass | Pass |
+| Gallery Page | Pass | Pass |
+| Join Us Page | Pass | Pass |
+
+### _Code Validators_
+
+The W3C Markup and CSS Validators were used to validate my project to make sure there were no errors within the site. 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+ - Home page
+ ![HTML Home page test](assets/docs/html-home-page-test.PNG)
+
+ - Gallery page
+ ![HTML Gallery page test](assets/docs/html-gallery-page-test.PNG)
+
+ - Join Us page
+ ![HTML Join Us page test](assets/docs/html-joinus-page-test.PNG)
+
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  
+   ![CSS test](assets/docs/test-css.PNG)
+
+### _Lighthouse Testing_ 
+
+- Desktop
+
+![Hope page results](assets/docs/desktop-home-perf.PNG)
+
+![Gallery page results](assets/docs/desktop-gallery-perf.PNG)
+
+![Join Us page results](assets/docs/desktop-joinus-perf.PNG)
+
+- Mobile
+
+![Home page results](assets/docs/mob-home-perf.PNG)
+
+![Gallery page results](assets/docs/mob-gallery-perf.PNG)
+
+![Join Us page results](assets/docs/mob-joinus-perf.PNG)
+
+
+
+
+ 
+
+
+ 
+
+
 
 
 
