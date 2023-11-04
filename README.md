@@ -294,6 +294,12 @@ The main guidance and instructions in this project were from [Code Institute](ht
 
 - The Gallery images were taken from [Tripadvisor](https://www.tripadvisor.co.uk/Restaurant_Review-g1088372-d4699146-Reviews-Chevermeto-Sveti_Vlas_Burgas_Province.html#photos;aggregationId=101&albumid=101&filter=7&ff=101577952)
 
+## Acknowledgements
+
+- I would like to give a big thanks to Emanuel Silva from [Slack](https://slack.com/intl/en-gb/) for all his help, effort, guidance and patience he has provided during this project.
+
+- I would also like to thank my mentor Daisy for all her support, understanding, advice and for explaining things to me when I did not understand.
+
 
 
 
