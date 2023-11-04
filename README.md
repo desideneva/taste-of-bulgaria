@@ -58,6 +58,14 @@
 
 ![Gallery page](assets/docs/gallery.PNG)
 
+### _The Join Us Page_
+
+-  Users are encouraged to engage with the restaurant by taking action on the "Join Us" page. Whether it's making a reservation, signing up for updates, or reaching out, this engagement builds a stronger connection between the user and the restaurant. The user will be asked to submit their full name and email address.
+
+![Join Us page](assets/docs/join-us.PNG)
+
+
+
 
 
 
