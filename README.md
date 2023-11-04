@@ -34,13 +34,23 @@
 
 ![Menu section](assets/docs/menu.PNG)
 
-### Welcome Section
+### _Welcome Section_
 
 - This section allows the user to see exactly when the opening  will happen, the exact location, and the time.
 
 - The image on the side captures the essence of the restaurant – a warm, genuine, and welcoming atmosphere. The smiling female adorned in a traditional Bulgarian costume embodies the friendliness and warmth that awaits the user.
 
 ![Welcome section](assets/docs/welcome-image.PNG)
+
+### _The Footer_
+
+- The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
+
+- The footer is valuable to the user as it encourages them to keep connected via social media.
+
+![Footer](assets/docs/footer.PNG)
+
+
 
 
 
